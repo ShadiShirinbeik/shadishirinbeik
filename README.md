@@ -21,10 +21,10 @@
 - 💖 I'm currnetly work on ...
 - 💪 I Believe that I should try My Best.
 - 🔭 I’m realy interested about Vue.js and JavaScript
-- 🌱 I’m currently learning Vue2 
+- 🌱 I’m currently learning Vue3 
 - 💬 Ask me anything about JS and Vue
 - 🌏 You can find me in social that is mentioned in top
-- 📨 Or for fast way just send me a Mail in shadishirinbeik@gmail.com
+- 📨 Or for fast way just send me a Mail in shadi.shirinbeik@gmail.com
 - ⚡ Fun fact: I Love 😴Sleeping, 🐶Puppies, ❄️Ice and yogurt 🏊Swimming
 
 ### Languages & Tools
