@@ -28,10 +28,12 @@
 - ⚡ Fun fact: I Love 😴Sleeping, 🐶Puppies, ❄️Ice and yogurt 🏊Swimming
 
 ### Languages & Tools
-<div align="center">
-  <code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="30px"> </code>
-  <code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px"> </code>
-  <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"> </code>
-  <code><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" width="30px"> </code>
-
+<div>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=django&logoColor=white">
 </div>
+
