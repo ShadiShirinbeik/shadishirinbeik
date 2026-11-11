@@ -9,6 +9,9 @@ I'm a software developer with experience in JavaScript and data analytics. Most 
 
 ### Projects
 
+**[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery)**
+Cart abandonment analysis on real OTTO e-commerce data (12.9M users). A 1M-user sample goes through PostgreSQL and a dbt pipeline (staging, prep, mart) into Python notebooks and a Tableau story. 57% of users who add to cart never order; a target group of 56,620 high-intent abandoners is best reached on Sunday and Monday evenings.
+
 **[beauty-orders-automation](https://github.com/ShadiShirinbeik/beauty-orders-automation)**
 Google Apps Script that checks an orders sheet for duplicate and incomplete rows, rebuilds six KPIs and emails a 7 AM digest. Pull requests get a syntax check, and merges to main deploy through clasp and GitHub Actions.
 
