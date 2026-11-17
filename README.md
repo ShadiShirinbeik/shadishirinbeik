@@ -9,6 +9,9 @@ I'm a software developer with experience in JavaScript and data analytics. Most 
 
 ### Projects
 
+**[beauty-returns-triage-agent](https://github.com/ShadiShirinbeik/beauty-returns-triage-agent)**
+Make scenario that takes customer return requests from a Google Form, uses Gemini to classify the reason and sentiment, and routes each case to auto-approve, a photo request by email, or a Slack escalation. Every case is logged in Google Sheets, failed runs retry with Slack alerts, and a nightly TypeScript job on GitHub Actions flags stuck or overdue cases.
+
 **[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery)**
 Cart abandonment analysis on real OTTO e-commerce data (12.9M users). A 1M-user sample goes through PostgreSQL and a dbt pipeline (staging, prep, mart) into Python notebooks and a Tableau story. 57% of users who add to cart never order; a target group of 56,620 high-intent abandoners is best reached on Sunday and Monday evenings.
 
