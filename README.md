@@ -28,7 +28,7 @@ SQL audit of 1.67M US flight records. At first only 1.75% of reported flight dur
 Delivery-time analysis by shipping mode, with nine charts.
 
 ### Tools
-JavaScript · Google Apps Script · GitHub Actions · Python · SQL · PostgreSQL · dbt · Vue.js · Git · Claude Code
+JavaScript · Make · Google Apps Script · GitHub Actions · Python · SQL · PostgreSQL · dbt · Vue.js · Git · Claude Code · Gemini
 
 ### Background
 Three years of front-end development with Vue.js in Scrum teams. At SmartIDX we used GitHub Actions to take code from a merged pull request to deployment without manual steps. I'm now finishing neuefische's Data Analytics programme in Berlin.
