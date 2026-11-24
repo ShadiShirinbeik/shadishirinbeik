@@ -9,11 +9,11 @@ I'm a software developer with experience in JavaScript and data analytics. Most 
 
 ### Projects
 
+**[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery) · [Live presentation](https://shadishirinbeik.github.io/otto-cart-recovery/)
+Cart abandonment analysis on real OTTO e-commerce data (12.9M users). A 1M-user sample goes through PostgreSQL and a dbt pipeline (staging, prep, mart) into Python notebooks, a Tableau dashboard and an interactive web presentation. 57% of users who add to cart never order. A target group of 26,919 high-intent abandoners (3+ cart adds, 4+ active days) is best reminded about one hour after their cart.
+
 **[beauty-returns-triage-agent](https://github.com/ShadiShirinbeik/beauty-returns-triage-agent)**
 Make scenario that takes customer return requests from a Google Form, uses Gemini to classify the reason and sentiment, and routes each case to auto-approve, a photo request by email, or a Slack escalation. Every case is logged in Google Sheets, failed runs retry with Slack alerts, and a nightly TypeScript job on GitHub Actions flags stuck or overdue cases.
-
-**[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery)**
-Cart abandonment analysis on real OTTO e-commerce data (12.9M users). A 1M-user sample goes through PostgreSQL and a dbt pipeline (staging, prep, mart) into Python notebooks and a Tableau story. 57% of users who add to cart never order; a target group of 56,620 high-intent abandoners is best reached on Sunday and Monday evenings.
 
 **[beauty-orders-automation](https://github.com/ShadiShirinbeik/beauty-orders-automation)**
 Google Apps Script that checks an orders sheet for duplicate and incomplete rows, rebuilds six KPIs and emails a 7 AM digest. Pull requests get a syntax check, and merges to main deploy through clasp and GitHub Actions.
