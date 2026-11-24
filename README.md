@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Shadi. 
 
-I'm a software developer with experience in JavaScript and data analytics. Most of what I build now is automation: scripts that clean up spreadsheets, scheduled jobs, small data pipelines and the CI/CD that ships them.
+I'm a software engineer with experience in data analytics, Automation developer and Front-End Development (using JavaScript and Vue.js). I like to take a real question, find the answer in the data, and present it so anyone can follow it. Alongside data analysis, I build automation: scripts that clean up spreadsheets, scheduled jobs, small data pipelines and the CI/CD that ships them.
 
 ### What I'm working on
+- Data analysis projects on real data
+- Data pipelines with SQL, PostgreSQL and dbt
 - Workflow automation with Google Apps Script and GitHub Actions
-- Agentic coding with Claude Code, including my own skills and plugins
-- Data pipelines with Python, SQL and dbt
 
 ### Projects
 
@@ -28,10 +28,7 @@ SQL audit of 1.67M US flight records. At first only 1.75% of reported flight dur
 Delivery-time analysis by shipping mode, with nine charts.
 
 ### Tools
-JavaScript · Make · Google Apps Script · GitHub Actions · Python · SQL · PostgreSQL · dbt · Vue.js · Git · Claude Code · Gemini
-
-### Background
-Three years of front-end development with Vue.js in Scrum teams. At SmartIDX we used GitHub Actions to take code from a merged pull request to deployment without manual steps. I'm now finishing neuefische's Data Analytics programme in Berlin.
+Python (pandas, seaborn, plotly) · SQL · PostgreSQL · dbt · Tableau · JavaScript · Make · Google Apps Script · OAuth2 · GitHub Actions · Claude Code · Gemini
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/shadishirinbeik/) · shadi.shirinbeik@gmail.com
