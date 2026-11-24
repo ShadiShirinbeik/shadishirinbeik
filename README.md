@@ -9,7 +9,7 @@ I'm a software developer with experience in JavaScript and data analytics. Most 
 
 ### Projects
 
-**[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery) · [Live presentation](https://shadishirinbeik.github.io/otto-cart-recovery/)
+[otto-cart-recovery](https://github.com/ShadiShirinbeik/otto-cart-recovery) · [Live presentation](https://shadishirinbeik.github.io/otto-cart-recovery/)
 Cart abandonment analysis on real OTTO e-commerce data (12.9M users). A 1M-user sample goes through PostgreSQL and a dbt pipeline (staging, prep, mart) into Python notebooks, a Tableau dashboard and an interactive web presentation. 57% of users who add to cart never order. A target group of 26,919 high-intent abandoners (3+ cart adds, 4+ active days) is best reminded about one hour after their cart.
 
 **[beauty-returns-triage-agent](https://github.com/ShadiShirinbeik/beauty-returns-triage-agent)**
